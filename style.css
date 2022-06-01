@@ -1,0 +1,46 @@
+.top-container {
+    background-color: #0e579c;
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: orange;
+}
+
+.vl {
+    border-left: 2px solid gray;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+
+.nav-items {
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+    padding: 20px 32px;
+    text-align: center;
+}
+
+.report-title {
+    background-color: lightgrey;
+}
+
+footer {
+    background-color: #33393d;
+    color: white;
+}
+
+.footer-container {
+    border-bottom: 1px solid #6b6a6a;
+}
+
+footer i {
+    background-color: #22619c;
+    padding: 10px;
+    border-radius: 50%;
+}
